@@ -11,6 +11,8 @@ CMD/System_check_after_PowerOff.cmd     - Simple command to run after computer w
 
 PowerShell/DHCP_add_remove_address.ps1  - Add or remove spaces in addresses in DHCP Scope.
 
+PowerShell/Dropbox_update.ps1           - Utility to download any updates from Dropbox folder with API token (check, sync, send reports with e-mail).
+
 PowerShell/NAS_external_backup.ps1      - Copy folders from one network share to another with logging, disk mapping and progressbar, excludes list, etc.
 
 PowerShell/Share_files_with_Dropbox.ps1 - Share files in user folders (in domain) with check and getting URL, based on Dropbox API.
